@@ -1,3 +1,3 @@
 # django
 repository for django works
-this repository made fo rvaroisu experiments with core django 
+this repository made for varoius experiments with core django 
